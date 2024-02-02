@@ -1,2 +1,2 @@
-# YouTube
-Notebooks and exercises related to Humanitarians.ai YouTube videos
+# Arts and Logo
+This repository contains various arts and logos desigmed for Skunks_Skool.
