@@ -53,7 +53,7 @@ Find all code, prompts, and details from this video in our GitHub repository:
 ```
 
 ### Hashtags
-Include 3-5 relevant hashtags at the end of your description. Always include #HumanitariansAI and #NerdStuffAndAI.
+Include 10-15 relevant hashtags at the end of your description. Always include #HumanitariansAI and #NerdStuffAndAI.
 
 ## Audio Enhancement Guide
 
