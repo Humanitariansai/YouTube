@@ -309,4 +309,28 @@ Stable Diffusion 3.5 Large is a cutting-edge AI model designed for generating hi
   - Data Exposure Risks: Users must manage sensitive data carefully.
 
 
+
+
+# YouTube Title and Description Prompt
+
+This section is just an example for Fellows to properly prepapre content for YouTube
+
+## Prompt for Creating YouTube Content
+
+Create a YouTube title and description with hashtags for "Nerd Stuff and AI" (i.e. Humanitarians AI Fellows explain tech).
+
+Include these links explicitly (don't hide the link) as written as is:
+- Humanitarians AI
+- https://music.apple.com/us/artist/humanitarians-ai/1781414009
+- https://open.spotify.com/artist/3cj3R4pDpYQHaWx0MM2vFV
+- https://www.humanitarians.ai/
+- https://www.youtube.com/@humanitariansai
+- https://github.com/Humanitariansai/
+- https://www.linkedin.com/company/105696953/
+
+There must be a link to a corresponding Humanitarians AI Github markdown page with any code, prompts and details:
+https://github.com/Humanitariansai/YouTube/blob/main/MD/Hugging_Face_Spaces.md
+
+If the author name and LinkedIn URL are included, show that at the bottom of the YouTube description.
+
 ---
