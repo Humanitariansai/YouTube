@@ -1,7 +1,12 @@
 
 # **Guide to Using Hugging Face Spaces**
 
-[![AI Programming for Beginners](https://img.youtube.com/vi/Issw-zSjbhQ/0.jpg)](https://www.youtube.com/watch?v=Issw-zSjbhQ "AI Programming for Beginners")
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Issw-zSjbhQ">
+    <img src="https://img.youtube.com/vi/Issw-zSjbhQ/0.jpg" alt="AI Programming for Beginners">
+  </a>
+  <p>Click the image to watch "AI Programming for Beginners" on YouTube</p>
+</div>
 
 ## **Table of Contents**
 1. [Introduction](#introduction)
