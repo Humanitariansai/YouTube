@@ -24,18 +24,19 @@ This guide outlines the complete process for creating, enhancing, and publishing
 
 When creating content for the "Nerd Stuff and AI" series, follow these guidelines for your YouTube titles and descriptions:
 
-#### Title Format
+#### Example Prompt
+
+```
 Create a descriptive, engaging title that clearly indicates the content is part of the Humanitarians AI Fellows program, for example:
 - "How to Build a Simple AI Chatbot | Nerd Stuff and AI Ep.2"
 - "Understanding Machine Learning Models | Nerd Stuff and AI with Humanitarians AI"
 
-#### Description Template
 Your description should include:
 1. A brief summary of the video content (2-3 sentences)
 2. What viewers will learn (bullet points work well)
 3. Required links (always include these exactly as shown):
 
-```
+
 🔗 CONNECT WITH HUMANITARIANS AI:
 Apple Music: https://music.apple.com/us/artist/humanitarians-ai/1781414009
 Spotify: https://open.spotify.com/artist/3cj3R4pDpYQHaWx0MM2vFV
@@ -50,10 +51,12 @@ Find all code, prompts, and details from this video in our GitHub repository:
 
 [Your Name]
 [Your LinkedIn URL]
+
+[Cut and Paste the Markdown file you created for the video]
 ```
 
 ### Hashtags
-Include 3-5 relevant hashtags at the end of your description. Always include #HumanitariansAI and #NerdStuffAndAI.
+Include 10-15 relevant hashtags at the end of your description. Always include #HumanitariansAI and #NerdStuffAndAI.
 
 ## Audio Enhancement Guide
 
