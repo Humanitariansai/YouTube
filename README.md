@@ -51,6 +51,8 @@ Find all code, prompts, and details from this video in our GitHub repository:
 
 [Your Name]
 [Your LinkedIn URL]
+
+[Cut and Paste the Markdown file you created for the video]
 ```
 
 ### Hashtags
