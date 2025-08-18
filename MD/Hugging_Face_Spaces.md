@@ -333,4 +333,80 @@ https://github.com/Humanitariansai/YouTube/blob/main/MD/Hugging_Face_Spaces.md
 
 If the author name and LinkedIn URL are included, show that at the bottom of the YouTube description.
 
+
+# Using Audacity to Enhance Poor Audio from Videos
+
+## Audio Extraction and Enhancement Guide for Fellows
+
+This guide explains how to extract, enhance, and reintegrate poor-quality audio from your videos using free tools.
+
+### Step 1: Extract Audio from Video
+
+First, extract the audio track from your video file using FFmpeg. Open your terminal or command prompt and run:
+
+```bash
+ffmpeg -i video.mp4 -vn -acodec pcm_s16le -ar 44100 audio.wav
+```
+
+This command:
+- `-i video.mp4`: Specifies the input video file
+- `-vn`: Disables video recording
+- `-acodec pcm_s16le`: Sets the audio codec to 16-bit PCM
+- `-ar 44100`: Sets the audio sampling rate to 44.1kHz
+- `audio.wav`: Names the output audio file
+
+### Step 2: Enhance Audio in Audacity
+
+1. **Open Audacity** and import your extracted audio.wav file (File > Open)
+
+2. **Apply Amplification**:
+   - Select the entire track (Ctrl+A or ⌘+A)
+   - Navigate to Effect > Volume > Amplify
+   - In the dialog box:
+     - The default setting will boost the volume to the maximum level without clipping
+     - Adjust "New Peak Amplitude (dB)" to control the maximum volume
+     - If your audio is extremely quiet, check "Allow clipping" (use cautiously)
+   - Click "OK" to apply
+
+3. **Additional Recommended Enhancements**:
+   - **Noise Reduction**: Effect > Noise Reduction > Get Noise Profile (from a silent section), then apply to the full track
+   - **Equalization**: Effect > Equalization to enhance voice frequencies (boost around 2-4kHz for clarity)
+   - **Compression**: Effect > Compressor to even out volume levels
+   - **Normalize**: Effect > Normalize to -3dB for consistent levels
+
+4. **Export Enhanced Audio**: File > Export > Export as WAV (or your preferred format)
+
+### Step 3: Reintegrate with Video
+
+1. Open your video editing software (Premiere Pro, Final Cut, DaVinci Resolve, etc.)
+
+2. Create a new project and import both:
+   - Your original video file
+   - Your enhanced audio.wav file
+
+3. Place the video on your timeline, then:
+   - Mute or delete the original audio track
+   - Add your enhanced audio.wav file to the timeline
+   - Ensure the enhanced audio is properly synchronized with the video
+
+4. Make any final adjustments to ensure audio-visual synchronization
+
+5. Export your video with the enhanced audio
+
+### Tips for Better Results
+
+- **Monitor with headphones** during editing to catch subtle audio issues
+- **Apply effects gradually** - it's better to make multiple small adjustments than one extreme change
+- **Create backup copies** before making significant changes
+- **Use the Amplify preview** to hear results before applying
+- **Watch for distortion** - if the audio sounds "crunchy" after amplification, reduce the amount
+
+### Troubleshooting
+
+- **Audio/Video Sync Issues**: Use visual cues like mouth movements to realign audio
+- **Distortion After Amplification**: Try using Compressor before Amplify to control peaks
+- **Background Noise Gets Louder**: Apply Noise Reduction before Amplification
+
+By following these steps, Fellows can significantly improve poor audio quality in their videos, creating more professional and accessible content.
+
 ---
