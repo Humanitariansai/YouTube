@@ -1,6 +1,8 @@
 
 # **Guide to Using Hugging Face Spaces**
 
+[![AI Programming for Beginners](https://img.youtube.com/vi/Issw-zSjbhQ/0.jpg)](https://www.youtube.com/watch?v=Issw-zSjbhQ "AI Programming for Beginners")
+
 ## **Table of Contents**
 1. [Introduction](#introduction)
 2. [Core Features](#core-features)
