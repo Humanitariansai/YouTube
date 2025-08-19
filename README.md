@@ -36,7 +36,6 @@ Your description should include:
 2. What viewers will learn (bullet points work well)
 3. Required links (always include these exactly as shown):
 
-
 🔗 CONNECT WITH HUMANITARIANS AI:
 Apple Music: https://music.apple.com/us/artist/humanitarians-ai/1781414009
 Spotify: https://open.spotify.com/artist/3cj3R4pDpYQHaWx0MM2vFV
@@ -48,9 +47,10 @@ LinkedIn: https://www.linkedin.com/company/105696953/
 📝 RESOURCES MENTIONED:
 Find all code, prompts, and details from this video in our GitHub repository:
 [Link to your specific GitHub markdown page]
-
 [Your Name]
 [Your LinkedIn URL]
+
+4. ALWAYS include exactly 15 hashtags related to the content at the very bottom of the description
 
 [Cut and Paste the Markdown file you created for the video]
 ```
